@@ -1,10 +1,13 @@
-// let person = {name : 'Alice', age : '20'};
-const person = {
-  name: 'Alice',
-  lastName: 'Smith',
-  age: 20,
-  eyeColor: 'black',
-}
-console.log(person);
+// // function test(){
+// //   console.log(">>>test ")
+// // }
 
-console.log(person.name);
+// test = () => {
+//   console.log(">>>test ")
+// }
+
+// test();
+
+hello = () => { return "Hello World!" }
+
+console.log(hello());
